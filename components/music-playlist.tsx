@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import Image from "next/image";
 import { Play, Pause, Heart, Music } from "lucide-react";
 
 interface Song {

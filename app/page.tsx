@@ -4,7 +4,6 @@ import { useState } from "react"
 import AnimatedHeart from "../components/animated-heart"
 import LoveReasons from "../components/love-reasons"
 import MessageBox from "../components/message-box"
-import PhotoGallery from "../components/photo-gallery"
 import SpecialDates from "../components/special-dates"
 import SecretMessages from "../components/secret-messages"
 import PromiseWall from "../components/promise-wall"
@@ -51,7 +50,6 @@ export default function AnniversaryPage() {
           <PolaroidGallery />
         </div>
 
-        {/* <PhotoGallery /> */}
         <MusicPlaylist />
 
         <SpecialDates />
