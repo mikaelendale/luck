@@ -7,11 +7,9 @@ import MessageBox from "../components/message-box"
 import SpecialDates from "../components/special-dates"
 import SecretMessages from "../components/secret-messages"
 import PromiseWall from "../components/promise-wall"
-import LittleThings from "../components/little-things"
-import PolaroidGallery from "../components/polaroid-gallery"
+import LittleThings from "../components/little-things" 
 import PasswordLock from "../components/password-lock"
-import MusicPlaylist from "../components/music-playlist"
-import FavoritePics from "../components/favourite-pic"
+import MusicPlaylist from "../components/music-playlist" 
 
 export default function AnniversaryPage() {
   const [isUnlocked, setIsUnlocked] = useState(false)
