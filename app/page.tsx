@@ -45,8 +45,7 @@ export default function AnniversaryPage() {
 
         <MusicPlaylist />
 
-        <SpecialDates />
-        <FavoritePics />
+        <SpecialDates /> 
 
         <PromiseWall />
 
