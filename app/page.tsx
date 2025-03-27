@@ -41,14 +41,7 @@ export default function AnniversaryPage() {
         </div>
 
         <MessageBox />
-
-        <div className="relative py-8">
-          <h2 className="text-3xl font-serif text-pink-600 mb-2 text-center">
-            Our Memories
-          </h2>
-          <div className="w-32 h-1 mx-auto mb-8 bg-gradient-to-r from-pink-300 via-red-400 to-pink-300 rounded-full"></div>
-          <PolaroidGallery />
-        </div>
+ 
 
         <MusicPlaylist />
 
